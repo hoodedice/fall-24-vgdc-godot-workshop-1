@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://npfd73lg0jey"
+path="res://.godot/imported/gear_08.obj-5c4f2c949cc8d9906a5cb6d7f9fa61ca.mesh"
+
+[deps]
+
+files=["res://.godot/imported/gear_08.obj-5c4f2c949cc8d9906a5cb6d7f9fa61ca.mesh"]
+
+source_file="res://assets/gear_pack/models/gear_08.obj"
+dest_files=["res://.godot/imported/gear_08.obj-5c4f2c949cc8d9906a5cb6d7f9fa61ca.mesh", "res://.godot/imported/gear_08.obj-5c4f2c949cc8d9906a5cb6d7f9fa61ca.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

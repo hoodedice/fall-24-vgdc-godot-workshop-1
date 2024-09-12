@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://b5x1a4xg6jej"]
+
+[ext_resource type="ArrayMesh" uid="uid://npfd73lg0jey" path="res://assets/gear_pack/models/gear_08.obj" id="1_08dvd"]
+
+[node name="Gear" type="MeshInstance3D"]
+mesh = ExtResource("1_08dvd")
